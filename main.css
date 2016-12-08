@@ -1,0 +1,115 @@
+@media screen and (max-width: 1680px) {
+	.list-header {margin-left: 500px;}
+}
+@media screen and (max-width: 1129px) {
+	.list-header {margin-left: 220px;}
+}
+@media screen and (max-width: 849px) {
+    .list-header >li {
+    	display: block;
+    	padding-left: 10px;
+    	margin-top: 0;
+    	letter-spacing: 5px;
+        }
+    }
+@media screen and (max-width: 849px) {
+    .list-header {
+    	margin-left: 200px;
+                }
+    } 
+ @media screen and (max-width: 849px) {
+.head-header {
+	height: 100px;
+}  
+ @media screen and (max-width: 1900px)  {
+ 	.know-more {
+ 		margin-top: 154px;
+ 		margin-left: 0;
+ 		float: left;
+ 		 border-bottom-right-radius: 30px;
+ 		 border-top-right-radius: 30px;
+
+ 	}
+@media screen and (max-width: 621px) {
+	.content-top {
+	display: block;
+	background-size: cover;
+	font-size: 15px;
+	height: 680px;
+    	width:7 35px;
+	}
+}
+@media screen and (max-width: 1595px) {
+	.content {
+		display: none;
+	}
+/*.title >li {
+	display: block;
+    
+           }
+    .title {
+    	padding-left: 0;
+    	margin-left: 0;
+    }       
+ .my-content {
+ 	display: none;
+ }          */
+}
+@media screen and (max-width: 1585px) {
+	.services {
+		width: 735px;
+		background-color: #f0f0e8;
+		height: 980px;
+	}
+	.my-services {
+		display: none;
+	}
+	.my-sprite {
+		display: none;
+	}
+	.services-title,.secondservices-title {
+		display: none;
+	}
+
+     .services-text {
+     	display: none;
+     }
+	.main-nav {
+		display: inline-block;
+		margin-left: 140px;
+	}
+	.my-works1 >li {
+	display: block;
+    }
+    .my-works2 >li {
+	display: block;
+    }
+    .my-works2 >li >img {
+    	height: 380px;
+    	width: 710px;
+    }
+    .my-works1 >li >img {
+    	height: 380px;
+    	width: 710px;
+    }
+    button {
+    	display: inline-block;
+    	margin-top: 350px;
+    	text-align: center;
+    }
+   .name,.email {
+   	width: 150px;
+   }
+   .message,.message-down {
+   	width: 220px;
+   }
+   .submit-1 {
+   	float: left;
+   	margin-left: 0;
+   }
+ .wrapper >h1,
+.wrapper >h2,
+.wrapper >h3, {
+	float: left;
+	margin-left: 0;
+}

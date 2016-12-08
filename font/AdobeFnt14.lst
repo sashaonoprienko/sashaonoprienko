@@ -1,0 +1,142 @@
+%!Adobe-FontList 1.14
+%Locale:0x422
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRoman.png
+FileModTime:1416149871
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanRegular\TimesNewRomanRegular.eot
+FileModTime:1416150132
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanRegular\TimesNewRomanRegular.ttf
+DataFormat:sfntData
+FileLength:977836
+FileModTime:1404944387
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanRegular\TimesNewRomanRegular.woff
+FileModTime:1416149990
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanItalic\TimesNewRomanItalic.eot
+FileModTime:1416150112
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-ItalicMT
+FamilyName:Times New Roman
+StyleName:Italic
+FullName:Times New Roman Italic
+MenuName:Times New Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanItalic\TimesNewRomanItalic.ttf
+DataFormat:sfntData
+FileLength:806164
+FileModTime:1404944387
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanItalic\TimesNewRomanItalic.woff
+FileModTime:1416149971
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBoldItalic\TimesNewRomanBoldItalic.eot
+FileModTime:1416150063
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldItalicMT
+FamilyName:Times New Roman
+StyleName:Bold Italic
+FullName:Times New Roman Bold Italic
+MenuName:Times New Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBoldItalic\TimesNewRomanBoldItalic.ttf
+DataFormat:sfntData
+FileLength:749588
+FileModTime:1404944387
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBoldItalic\TimesNewRomanBoldItalic.woff
+FileModTime:1416149933
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBold\TimesNewRomanBold.eot
+FileModTime:1416150039
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+FullName:Times New Roman Bold
+MenuName:Times New Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBold\TimesNewRomanBold.ttf
+DataFormat:sfntData
+FileLength:982988
+FileModTime:1404944387
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\kubick\Desktop\МАКЕТ 1\Font\TimesNewRomanBold\TimesNewRomanBold.woff
+FileModTime:1416149915
+%EndFont
+
