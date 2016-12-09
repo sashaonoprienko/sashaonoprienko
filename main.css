@@ -32,11 +32,10 @@
  	}
 @media screen and (max-width: 621px) {
 	.content-top {
-	display: block;
 	background-size: cover;
 	font-size: 15px;
 	height: 680px;
-    	width:7 35px;
+    	width:735px;
 	}
 }
 @media screen and (max-width: 1595px) {
@@ -94,22 +93,28 @@
     }
     button {
     	display: inline-block;
-    	margin-top: 350px;
+    	margin-top: 750px;
     	text-align: center;
+      margin-left: 15%;
     }
    .name,.email {
-   	width: 150px;
+   	width: 500px;
    }
-   .message,.message-down {
-   	width: 220px;
+   .message, {
+   	width: 520px;
+   }
+   .message-down {
+    display: none;
    }
    .submit-1 {
    	float: left;
    	margin-left: 0;
+    margin-top: 140px;
    }
- .wrapper >h1,
-.wrapper >h2,
-.wrapper >h3, {
-	float: left;
-	margin-left: 0;
+.wrapper >h2 {
+  margin-left: 40%;
+}
+.wrapper {
+  width: 735px;
+}
 }
