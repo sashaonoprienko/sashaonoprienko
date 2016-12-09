@@ -98,10 +98,10 @@
       margin-left: 15%;
     }
    .name,.email {
-   	width: 500px;
+   	width: 400px;
    }
-   .message, {
-   	width: 520px;
+   .message {
+   	width: 420px;
    }
    .message-down {
     display: none;
